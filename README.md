@@ -36,6 +36,6 @@
 [twitter]: https://twitter.com/NotRealPatrice
 [youtube]: https://www.youtube.com/@Narbirale/videos
 [instagram]: https://www.instagram.com/omgitspatrice/
-[linkedin]: https://linkedin.com/in/PetroMesceriakov
+[linkedin]: https://www.linkedin.com/in/petro-mesceriakov-9a5495356/
 
 <!--
