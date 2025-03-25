@@ -3,7 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/CyberNetWatch/Active-Directory-Home-Lab/tree/main)
-  - [Security Audit for Google Certificate](https://github.com/CyberNetWatch/Security-Audit)
+  - [Security Audit](https://github.com/CyberNetWatch/Security-Audit) Google Cybersecurity Certificate Project* 
+  - [Linux File Permission Management](https://github.com/CyberNetWatch/Linux_labs/tree/main) *Google Cybersecurity Certificate Lab Project* 
 
 <h2> Certifications </h2>
 
