@@ -7,7 +7,8 @@
 ### 🔥 **Google Cybersecurity Certificate Lab Projects**
 - [Linux File Permission Management Lab](https://github.com/CyberNetWatch/Linux_labs/tree/main)  
 - [Linux User Management Lab](https://github.com/CyberNetWatch/Linux-User-Management-Lab/tree/main)
-- [Security Audit](https://github.com/CyberNetWatch/Security-Audit)  
+- [Security Audit](https://github.com/CyberNetWatch/Security-Audit)
+- [SQL Labs](https://github.com/CyberNetWatch/google_SQL-Lab/tree/main)
 
 
 
